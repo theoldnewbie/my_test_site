@@ -3,7 +3,7 @@ body {
 	margin:0px;
 	padding:0px;
 	font: 12px verdana, arial, helvetica;
-    color: #777c7c;
+    color: #cdcaca;
 }
 
 p{
@@ -19,7 +19,7 @@ p.tab{
 }
 
 h1{
-color:#be52ae;
+color:#444948;
 font-size:12px;
 font-weight:bold;
 margin:0px;
@@ -27,7 +27,7 @@ padding:5px 0 5px 0;
 }
 
 h2{
-color:#a3659a;
+color:#444948;
 font-size:14px;
 font-weight:bold;
 margin:0px;
@@ -114,6 +114,114 @@ padding:10px 0 10px 0;
 	width:894px;
 	height:278px;
 	clear:both;
-	margin:auto;
+	margin: auto;
 	background:url(http://theoldnewbie.github.io/my_test_site/images/middle_banner.png) no-repeat center;
+}
+
+.title{
+height:26px;
+font-size:16px;
+font-weight:bold;
+padding:5px 0 0 35px;
+color:#bcb8b7;
+background:url(images/news_icon.gif) no-repeat left;
+background-position:0px 0px;
+}
+
+a.read_more {
+width:150px;
+height:27px;
+display:block;
+background:url(images/view_all_bg.gif) no-repeat center;
+line-height:27px;
+color:#428fb8;
+font-size:11px;
+font-weight:bold;
+text-decoration:none;
+text-align:center;
+float:right;
+margin:15px 0 15px 0;
+}
+/*main content*/
+#main_content{
+width:894px;
+height: auto;
+margin: auto;
+padding:0 0 0 10px 0;
+}
+.left_content{
+width:480px;
+height:auto;
+float:left;
+padding:10px 10px 15px 0;
+}
+.right_content{
+width:390px;
+height:auto;
+float:left;
+padding:10px 0 0 10px;
+}
+.news_tab{
+padding:10px 0 5px 0;
+margin:0px;
+text-align:justify;
+line-height:14px;
+border-bottom:1px #cdcaca dashed;
+}
+.news_details{
+padding:5px 0 0 0;
+text-align:right;
+font-size:11px;
+font-weight:bold;
+}
+span.date{
+color:#cdcaca;
+}
+span.user{
+color:#cdcaca;
+}
+.clear{
+clear:both;
+}
+/*accordion*/
+#basic-accordion{
+padding:0px;
+width:478px;
+height:500px;
+}
+.accordion_headings{
+width:468px;
+height:26px;
+padding:10px 0 0 10px;
+background:url(images/tab_bg.gif) no-repeat center;
+color:#444948;
+cursor:pointer;
+font-weight:bold;
+margin:0 0 4px 0;
+}
+.accordion_headings:hover{
+color:#444948;
+}
+.accordion_child{
+padding:0px;
+}
+.header_highlight{
+color:#444948;
+}
+/*footer*/
+#footer{
+width:894px;
+height:28px;
+color: #508aa1;
+border-top:1px #b2bbbb dashed;
+}
+.copyright{
+float:left;
+padding-left:15px;
+padding-top:7px;
+}
+.footer_links{
+float:right;
+padding-right:15px;
+padding-top:7px;
 }
