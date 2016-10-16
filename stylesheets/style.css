@@ -124,7 +124,7 @@ font-size:16px;
 font-weight:bold;
 padding:5px 0 0 35px;
 color:#bcb8b7;
-background:url(images/news_icon.gif) no-repeat left;
+background:url(http://theoldnewbie.github.io/my_test_site/images/news_icon.gif) no-repeat left;
 background-position:0px 0px;
 }
 
@@ -132,9 +132,9 @@ a.read_more {
 width:150px;
 height:27px;
 display:block;
-background:url(images/view_all_bg.gif) no-repeat center;
+background:url(http://theoldnewbie.github.io/my_test_site/images/view_all_bg.gif) no-repeat center;
 line-height:27px;
-color:#428fb8;
+color:#010101;
 font-size:11px;
 font-weight:bold;
 text-decoration:none;
@@ -149,77 +149,86 @@ height: auto;
 margin: auto;
 padding:0 0 0 10px 0;
 }
+
 .left_content{
 width:480px;
 height:auto;
 float:left;
 padding:10px 10px 15px 0;
 }
+
 .right_content{
 width:390px;
 height:auto;
 float:left;
 padding:10px 0 0 10px;
 }
+
 .news_tab{
 padding:10px 0 5px 0;
 margin:0px;
 text-align:justify;
 line-height:14px;
-border-bottom:1px #cdcaca dashed;
+border-bottom:1px #010101 dashed;
 }
+
 .news_details{
 padding:5px 0 0 0;
 text-align:right;
 font-size:11px;
 font-weight:bold;
 }
+
 span.date{
 color:#cdcaca;
 }
+
 span.user{
 color:#cdcaca;
 }
+
 .clear{
 clear:both;
 }
+
 /*accordion*/
 #basic-accordion{
 padding:0px;
 width:478px;
 height:500px;
 }
+
 .accordion_headings{
 width:468px;
 height:26px;
 padding:10px 0 0 10px;
-background:url(images/tab_bg.gif) no-repeat center;
+background:url(http://theoldnewbie.github.io/my_test_site/images/tab_bg.gif) no-repeat center;
 color:#444948;
 cursor:pointer;
 font-weight:bold;
 margin:0 0 4px 0;
 }
+
 .accordion_headings:hover{
 color:#444948;
 }
+
 .accordion_child{
 padding:0px;
 }
+
 .header_highlight{
 color:#444948;
 }
+
 /*footer*/
 #footer{
 width:894px;
 height:28px;
-color: #508aa1;
-border-top:1px #b2bbbb dashed;
+color: #cdcaca;
+border-top:1px #010101 dashed;
 }
-.copyright{
-float:left;
-padding-left:15px;
-padding-top:7px;
-}
+
 .footer_links{
 float:right;
 padding-right:15px;
