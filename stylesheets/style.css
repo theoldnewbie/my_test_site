@@ -169,7 +169,7 @@ padding:10px 0 5px 0;
 margin:0px;
 text-align:justify;
 line-height:14px;
-border-bottom:1px #010101 dashed;
+border-bottom:1px #cdcaca dashed;
 }
 
 .news_details{
@@ -192,7 +192,7 @@ clear:both;
 }
 
 /*accordion*/
-#basic-accordion{
+#basic_accordion{
 padding:0px;
 width:478px;
 height:500px;
@@ -226,7 +226,7 @@ color:#444948;
 width:894px;
 height:28px;
 color: #cdcaca;
-border-top:1px #010101 dashed;
+border-top:1px #cdcaca dashed;
 }
 
 .footer_links{
