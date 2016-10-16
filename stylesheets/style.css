@@ -194,8 +194,6 @@ clear:both;
 /*accordion*/
 #basic_accordion{
 padding:0px;
-width:478px;
-height:500px;
 }
 
 .accordion_headings{
@@ -232,5 +230,4 @@ border-top:1px #cdcaca dashed;
 .footer_links{
 float:right;
 padding-right:20px;
-
 }
