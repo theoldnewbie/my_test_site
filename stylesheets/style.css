@@ -115,7 +115,7 @@ padding:10px 0 10px 0;
 	height:278px;
 	clear:both;
 	margin: auto;
-	background:url(http://theoldnewbie.github.io/my_test_site/images/middle_banner1.png) no-repeat center;
+	background:url(http://theoldnewbie.github.io/my_test_site/images/middle_banner.png) no-repeat center;
 }
 
 .title{
@@ -216,7 +216,7 @@ padding:0px;
 }
 
 .header_highlight{
-color:#444948;
+color:#010101;
 }
 
 /*footer*/
