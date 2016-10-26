@@ -121,6 +121,7 @@ padding:10px 0 10px 0;
 .title{
 height:26px;
 font-size:16px;
+margin:10px;
 font-weight:bold;
 padding:5px 0 0 35px;
 color:#bcb8b7;
@@ -208,30 +209,6 @@ clear:both;
 	height: 100%;
 }
 
-.sli-links{ 
-    margin-top:10px;
-    text-align:center;
-}
-
-.sli-links .control-slide{
-    margin:2px;
-    display:inline-block;
-    width:16px;
-    height:16px;
-    overflow:hidden;
-    text-indent:-9999px;
-    background:url(http://theoldnewbie.github.io/my_test_site/images/radioBg.png) center bottom no-repeat;
-}
-
-.sli-links .control-slide:hover{
-    cursor:pointer;
-    background-position:center center;
-}
-
-.sli-links .control-slide.active{
-    background-position:center top;
-}
-
 #prewbutton, #nextbutton{ 
     display:block;
     width:15px;
@@ -249,7 +226,7 @@ clear:both;
 
 #nextbutton{
     right:10px;
-    background:url(arrowBg.png) right center no-repeat;
+    background:url(http://theoldnewbie.github.io/my_test_site/images/arrowBg.png) right center no-repeat;
 }
 
 #prewbutton:hover, #nextbutton:hover{
