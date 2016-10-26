@@ -132,7 +132,7 @@ a.read_more {
 width:150px;
 height:27px;
 display:block;
-background:url(http://theoldnewbie.github.io/my_test_site/images/view_all_bg.gif) no-repeat center;
+background:url(http://theoldnewbie.github.io/my_test_site/images/view_all_bg.png) no-repeat center;
 line-height:27px;
 color:#010101;
 font-size:11px;
@@ -190,7 +190,15 @@ color:#cdcaca;
 .clear{
 clear:both;
 }
+/*slider*/
+#slider-wrap{
+	width: 390px;
+}
 
+#slider{
+	width: 370px;
+	height: 
+}
 /*accordion*/
 #basic_accordion{
 padding:0px;
@@ -200,7 +208,7 @@ padding:0px;
 width:468px;
 height:26px;
 padding:10px 0 0 10px;
-background:url(http://theoldnewbie.github.io/my_test_site/images/tab_bg.gif) no-repeat center;
+background:url(http://theoldnewbie.github.io/my_test_site/images/tab_bg.png) no-repeat center;
 color:#444948;
 cursor:pointer;
 font-weight:bold;
