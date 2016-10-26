@@ -98,7 +98,7 @@ padding:10px 0 10px 0;
 	height:24px;
 	width: auto;
 	text-decoration:none;
-	color: #b8ff0d;
+	color: #6cc82c;
 }
 
 #menu ul li a.current{
@@ -250,7 +250,7 @@ margin:0 0 4px 0;
 }
 
 .accordion_headings:hover{
-color:#444948;
+color:#6cc82c;
 }
 
 .accordion_child{
