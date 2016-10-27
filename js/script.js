@@ -26,7 +26,7 @@ var show = function show(event) {
 	}
 };
 
-var howerSlideSpeed = 2000;
+var howerSlideSpeed = 500;
 var howerTimeOut = 5000;
 var howerNeedLinks = true;
 
